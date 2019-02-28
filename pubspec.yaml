@@ -1,5 +1,5 @@
 name: flutter_android_serial
-description: A new flutter plugin project.
+description: returns android.os.Build.SERIAL
 version: 0.0.1
 author:
 homepage:
