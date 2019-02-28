@@ -1,4 +1,4 @@
-package fsd.androidserial;
+package fsd.flutterandroidserial;
 
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
