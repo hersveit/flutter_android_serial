@@ -1,4 +1,4 @@
-group 'fsd.androidserial'
+group 'fsd.flutterandroidserial'
 version '1.0-SNAPSHOT'
 buildscript {
     repositories {
