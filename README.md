@@ -1,6 +1,6 @@
 # flutter_android_serial 
 [![GitHub version](https://badge.fury.io/gh/hersveit%2Fflutter_android_serial.svg)](https://badge.fury.io/gh/hersveit%2Fflutter_android_serial)
-
+<br><br>
 ## Install
 ```yaml
 flutter_android_serial:
