@@ -11,7 +11,7 @@
 
 - (void)handleMethodCall:(FlutterMethodCall*)call result:(FlutterResult)result {
   if ([@"getAndroidSerial" isEqualToString:call.method]) {
-    result("");
+    result(@"");
   } else {
     result(FlutterMethodNotImplemented);
   }
