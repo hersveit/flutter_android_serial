@@ -5,6 +5,7 @@
 ```yaml
 flutter_android_serial:
     git: https://github.com/hersveit/flutter_android_serial.git
+    version: ^0.0.1
 ```
 
 ## Using
