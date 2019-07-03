@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
   Future<void> initPlatformState() async {
     String androidId;
     try {
-      androidId = await FlutterAndroidSerial.getaAndroidId();
+      androidId = await FlutterAndroidSerial.getAndroidId();
     } on PlatformException {
       androidId = 'Failed to get android id.';
     }
