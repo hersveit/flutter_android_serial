@@ -1,4 +1,4 @@
-group 'com.example.flutter_android_serial'
+group 'com.flutter_android_serial'
 version '1.0-SNAPSHOT'
 
 buildscript {
